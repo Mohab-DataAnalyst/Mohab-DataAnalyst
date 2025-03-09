@@ -26,10 +26,10 @@
 
 ## 📬 Let's Connect!
 
-📧 **Email**: [mohab.professional164@gmail.com](mohab.professional164@gmail.com)
+📧 **Email**: mohab.professional164@gmail.com
 
-💼 **LinkedIn**: [www.linkedin.com/in/mohabmohammad-dataanalyst](www.linkedin.com/in/mohabmohammad-dataanalyst)
+💼 **LinkedIn**: www.linkedin.com/in/mohabmohammad-dataanalyst
 
-🖥️ **Tableau Public**: [https://public.tableau.com/app/profile/mohab.mohammad5635/vizzes](https://public.tableau.com/app/profile/mohab.mohammad5635/vizzes)
+🖥️ **Tableau Public**: https://public.tableau.com/app/profile/mohab.mohammad5635/vizzes
 
-🌐 **Portfolio Website**: [https://mohab-dataanalyst.github.io/](https://mohab-dataanalyst.github.io/)
+🌐 **Portfolio Website**: https://mohab-dataanalyst.github.io/
