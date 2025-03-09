@@ -15,7 +15,7 @@
 
 ## 🚀 My Portfolio Projects
 
-[*🔄📊 End-to-End Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Python-Projects)
+[*🔄📊 End-to-End Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/End-to-End-Projects)
 
 [*🐬 SQL Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/SQL-Projects)
 
