@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**Mohab-DataAnalyst/Mohab-DataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Mohab!
 
-Here are some ideas to get you started:
+📊 **Aspiring Data Analyst | Skilled in SQL, Python & Tableau | Passionate about Telling Stories Through Data**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Skills & Tools
+💻 **Programming & Data**: SQL (MySQL, PostgreSQL), Python, Pandas, NumPy, Matplotlib, Seaborn
+
+📊 **Visualization**: Tableau
+
+🛠 **Software & IDEs**: PyCharm, VS Code, DBeaver, MySQL Workbench, MS SQL Server
+
+🌐 **Other**: Web scraping, Data cleaning, Exploratory Data Analysis (EDA)
+
+
+## 🚀 My Portfolio Projects
+
+[*🔄📊 End-to-End Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Python-Projects)
+
+[*🐬 SQL Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/SQL-Projects)
+
+[*🐍 Python Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Python-Projects)
+
+[*🎨📊 Tableau Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Tableau-Projects)
+
+
+## 📬 Let's Connect!
+
+📧 **Email**: mohab.professional164@gmail.com
+
+💼 **LinkedIn**: www.linkedin.com/in/mohabmohammad-dataanalyst
+
+🖥️ **Tableau Public**: https://public.tableau.com/app/profile/mohab.mohammad5635/vizzes
+
+🌐 **Portfolio Website**:
