@@ -1,4 +1,6 @@
 
+![Logo](https://mohab-dataanalyst.github.io/images/main%20img.webp)
+
 # 👋 Hey there, I'm Mohab!
 
 📊 **Aspiring Data Analyst | Skilled in SQL, Python & Tableau | Passionate about Telling Stories Through Data**
