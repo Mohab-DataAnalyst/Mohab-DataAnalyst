@@ -16,7 +16,7 @@
 
 - **Advanced Data Analysis**
 
-- **Data Visualization**
+- **Data Visualization and Storytelling**
 
 
 ### 🛠️ Tools
