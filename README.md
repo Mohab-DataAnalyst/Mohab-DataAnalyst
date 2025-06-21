@@ -3,18 +3,19 @@
 
 # 👋 Hey there, I'm Mohab!
 
-📊 **Aspiring Data Analyst | Skilled in SQL, Python & Tableau | Passionate about Telling Stories Through Data**
+📊 **Aspiring Data Analyst | Skilled in Excel, SQL, Python, Tableau & Power BI | Passionate about Telling Stories Through Data**
 
-## 📈 Skills & Tools
-💻 **Programming & Data**: SQL (SQL Server, MySQL, PostgreSQL), Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-📊 **Visualization**: Tableau, Power BI
+## 📈 Skills
 
-🛠 **Software & IDEs**: PyCharm, VS Code, DBeaver, MySQL Workbench, MS SQL Server
+**Web Scraping and API Data Extraction**
+**Data Cleaning and Preprocessing**
+**Exploratory Data Analysis**
+**Advanced Data Analysis**
+**Data Visualization**
 
-🌐 **Other**: Web scraping, Data cleaning, Exploratory Data Analysis (EDA)
 
-### 🛠️ Tools & Skills
+### 🛠️ Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
