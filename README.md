@@ -9,9 +9,13 @@
 ## 📈 Skills
 
 **Web Scraping and API Data Extraction**
+
 **Data Cleaning and Preprocessing**
+
 **Exploratory Data Analysis**
+
 **Advanced Data Analysis**
+
 **Data Visualization**
 
 
