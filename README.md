@@ -8,15 +8,15 @@
 
 ## 📈 Skills
 
-**Web Scraping and API Data Extraction**
+- **Web Scraping and API Data Extraction**
 
-**Data Cleaning and Preprocessing**
+- **Data Cleaning and Preprocessing**
 
-**Exploratory Data Analysis**
+- **Exploratory Data Analysis**
 
-**Advanced Data Analysis**
+- **Advanced Data Analysis**
 
-**Data Visualization**
+- **Data Visualization**
 
 
 ### 🛠️ Tools
