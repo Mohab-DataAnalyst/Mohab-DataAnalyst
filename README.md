@@ -37,7 +37,7 @@
 
 [*🔎📊 Excel Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Tableau-Projects)
 
-[*🎨📈 Power BI Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Tableau-Projects)
+[*🎨📈 Power BI Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Power-BI-Data-Analysis-Projects)
 
 [*🎨📊 Tableau Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Tableau-Projects)
 
