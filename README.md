@@ -33,9 +33,9 @@
 
 [*🔄📊 End-to-End Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/End-to-End-Projects)
 
-[*🐬 SQL Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/SQL-Projects)
+[*🐬📊 SQL Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/SQL-Projects)
 
-[*🐍 Python Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Python-Projects)
+[*🐍📈 Python Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Python-Projects)
 
 [*🔎📊 Excel Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Excel-Data-Analysis-Projects)
 
