@@ -3,7 +3,7 @@
 
 # 👋 Hey there, I'm Mohab!
 
-📊 **Aspiring Data Analyst | Skilled in Excel, SQL, Python, Tableau & Power BI | Passionate about Telling Stories Through Data**
+📊 **Data Analyst | Skilled in Excel, SQL, Python, Tableau & Power BI | Passionate about Telling Stories Through Data**
 
 
 ## 📈 Skills
@@ -15,6 +15,8 @@
 - **Exploratory Data Analysis**
 
 - **Advanced Data Analysis**
+
+- **Machine Learning**
 
 - **Data Visualization and Storytelling**
 
@@ -41,7 +43,7 @@
 
 [*🎨📊 Tableau Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Tableau-Projects)
 
-[*📊 Machine Learning Projects*](https://github.com/Mohab-DataAnalyst/ML-projects)
+[*🧠📈 Machine Learning Projects*](https://github.com/Mohab-DataAnalyst/ML-projects)
 
 
 ## 📬 Let's Connect!
