@@ -41,6 +41,8 @@
 
 [*🎨📊 Tableau Data Analysis Projects*](https://github.com/Mohab-DataAnalyst/Tableau-Projects)
 
+[*📊 Machine Learning Projects*](https://github.com/Mohab-DataAnalyst/ML-projects)
+
 
 ## 📬 Let's Connect!
 
